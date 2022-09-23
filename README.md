@@ -18,4 +18,4 @@ Arduino also makes simpler the working process of microcontroller, but it gives 
 <br> • WebCam moves from 0 to 180 degree to Left to Right Revert back its orignal position  </br>
 <br> • Also moves 0 to 145 degree to Top to Bottom revert back its orignal position </br>
 <br> • Increased energy efficiency </br>
-<br> • mproved appliance functionality </br>
+<br> • Improved appliance functionality </br>
